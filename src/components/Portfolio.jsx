@@ -28,8 +28,8 @@ function Portfolio() {
       logo: react,
       title: "React",
       summary: "Interactive Portfolio Built with React.js",
-      demo: "https://thufelshaik-dev.github.io/JS_bank_project/bank.html",
-      srcCode: "https://thufelshaik-dev.github.io/JS_bank_project/bank.html",
+      demo: "https://67e1ace30c62c72b8cd27347--jazzy-gecko-791fd1.netlify.app/",
+      srcCode: "https://github.com/ThufelShaik-dev/portfolio_code",
     },
     {
       id: 4,
@@ -42,7 +42,10 @@ function Portfolio() {
   ];
   return (
     <>
-      <div className="max-w-screen-2xl container mx-auto px-4 md:px-20" name="Portfolio">
+      <div
+        className="max-w-screen-2xl container mx-auto px-4 md:px-20"
+        name="Portfolio"
+      >
         <div>
           <h1 className="font-semibold text-3xl mb-5 ">Portfolio</h1>
           <h1 className="underline font-bold my-3 text-xl">
