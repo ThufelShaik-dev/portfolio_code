@@ -1,12 +1,26 @@
-# React + Vite
+🚀 Personal Portfolio
+This is a modern and responsive portfolio website built using React.js to showcase my skills, projects, and experience as a Web Developer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥 Features
+✅ Fully responsive design
+✅ Contact form integration
+✅ Smooth animations & transitions
+✅ SEO-friendly structure
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Forms: React Hook Form, Getform.io (for submissions)
 
-## Expanding the ESLint configuration
+Notifications: React Hot Toast
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployment: Netlify
+
+📂 Installation & Usage
+git clone https://github.com/ThufelShaik-dev/portfolio_code.git
+cd portfolio_code
+npm install
+npm start
+
+🌐 Live Demo
+🔗
