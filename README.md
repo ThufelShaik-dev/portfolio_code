@@ -8,19 +8,19 @@ This is a modern and responsive portfolio website built using React.js to showca
 ✅ SEO-friendly structure
 
 🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS
+1.Frontend: React.js, Tailwind CSS
 
-Forms: React Hook Form, Getform.io (for submissions)
+2.Forms: React Hook Form, Getform.io (for submissions)
 
-Notifications: React Hot Toast
+3.Notifications: React Hot Toast
 
-Deployment: Netlify
+4.Deployment: Netlify
 
 📂 Installation & Usage
-git clone https://github.com/ThufelShaik-dev/portfolio_code.git
-cd portfolio_code
-npm install
-npm start
+1.git clone https://github.com/ThufelShaik-dev/portfolio_code.git
+2.cd portfolio_code
+3.npm install
+4.npm start
 
 🌐 Live Demo
-🔗
+🔗 https://67e1ace30c62c72b8cd27347--jazzy-gecko-791fd1.netlify.app/
