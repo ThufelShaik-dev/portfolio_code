@@ -28,7 +28,7 @@ function Portfolio() {
       logo: react,
       title: "React",
       summary: "Interactive Portfolio Built with React.js",
-      demo: "https://67e1ace30c62c72b8cd27347--jazzy-gecko-791fd1.netlify.app/",
+      demo: "https://cheery-gecko-713719.netlify.app/",
       srcCode: "https://github.com/ThufelShaik-dev/portfolio_code",
     },
     {
